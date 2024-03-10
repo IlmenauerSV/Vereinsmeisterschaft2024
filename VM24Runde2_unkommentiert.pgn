@@ -28,6 +28,7 @@
 [BlackElo "1998"]
 [Annotator "Skopp, Erik"]
 [PlyCount "62"]
+[ECO "A00"]
 [EventDate "2024.??.??"]
 [SourceTitle "Skopp, Erik"]
 [WhiteTeam "Ilmenauer SV"]
@@ -52,7 +53,7 @@
 [WhiteTeam "Ilmenauer SV"]
 [BlackTeam "Erfurter SK"]
 
-{[%evp 0,40,25,16,58,13,16,-23,0,-3,12,-2,-7,-13,-5,-11,2,-23,-24,-34,-20,-20,6,-19,41,18,11,13,-2,-31,-37,-90,-8,-49,63,-104,-70,-104,-92,-1042,-1072,-1087,-1110]} 1. e4 c5 2. c3 Nf6 3. d3 d6 4. Nf3 Nc6 5. Be3 e5 6. Nbd2 Be7 7. Be2 Ng4 8. Qc2 Nxe3 9. fxe3 O-O 10. O-O Kh8 11. d4 Qb6 12. Nc4 Qc7 13. Rad1 b5 14. Na3 a6 15. b4 g5 16. Nd2 Qb6 17. Bh5 cxd4 18. exd4 exd4 19. Bxf7 d3+ 20. Kh1 dxc2 21. Nxc2 Bg4 22. Rde1 Ne5 23. Bd5 Rxf1+ 24. Rxf1 Rf8 25. Rd1 Bxd1 0-1
+1. e4 c5 2. c3 Nf6 3. d3 d6 4. Nf3 Nc6 5. Be3 e5 6. Nbd2 Be7 7. Be2 Ng4 8. Qc2 Nxe3 9. fxe3 O-O 10. O-O Kh8 11. d4 Qb6 12. Nc4 Qc7 13. Rad1 b5 14. Na3 a6 15. b4 g5 16. Nd2 Qb6 17. Bh5 cxd4 18. exd4 exd4 19. Bxf7 d3+ 20. Kh1 dxc2 21. Nxc2 Bg4 22. Rde1 Ne5 23. Bd5 Rxf1+ 24. Rxf1 Rf8 25. Rd1 Bxd1 0-1
 
 [Event "Vereinsmeisterschaft Ilmenauer SV 2024"]
 [Site "Ilmenauer SV, EAZ Ilmenau"]
@@ -70,7 +71,7 @@
 [WhiteTeam "Ilmenauer SV"]
 [BlackTeam "Ilmenauer SV"]
 
-{[%evp 0,35,26,26,35,23,69,47,46,36,45,30,109,25,32,26,69,30,39,40,24,28,59,22,15,26,26,15,90,90,96,96,224,85,192,74,29999,-30000]} 1. d4 e6 2. Bf4 b6 3. e3 Bb7 4. Nf3 d6 5. Bd3 c5 6. c3 Nd7 7. O-O cxd4 8. exd4 Ngf6 9. Re1 Be7 10. Nbd2 Rc8 11. Qe2 O-O 12. h3 Qc7 13. Rac1 Bxf3 14. Nxf3 Nd5 15. Bh2 Qb7 16. g4 h6 17. Qe4 Qc7 18. Qh7# 1-0
+1. d4 e6 2. Bf4 b6 3. e3 Bb7 4. Nf3 d6 5. Bd3 c5 6. c3 Nd7 7. O-O cxd4 8. exd4 Ngf6 9. Re1 Be7 10. Nbd2 Rc8 11. Qe2 O-O 12. h3 Qc7 13. Rac1 Bxf3 14. Nxf3 Nd5 15. Bh2 Qb7 16. g4 h6 17. Qe4 Qc7 18. Qh7# 1-0
 
 [Event "Vereinsmeisterschaft Ilmenauer SV 2024"]
 [Site "Ilmenauer SV, EAZ Ilmenau"]
@@ -82,6 +83,7 @@
 [WhiteElo "1909"]
 [Annotator "Skopp, Erik"]
 [PlyCount "89"]
+[ECO "A00"]
 [EventDate "2024.??.??"]
 [SourceTitle "Skopp, Erik"]
 [WhiteTeam "Ilmenauer SV"]
@@ -115,6 +117,7 @@
 [White "Zeising, Benjamin"]
 [Black "Eisenbach, Markus"]
 [Result "1-0"]
+[ECO "D00"]
 [WhiteElo "1875"]
 [BlackElo "1404"]
 [Annotator "Skopp, Erik"]
@@ -124,7 +127,7 @@
 [WhiteTeam "Ilmenauer SV"]
 [BlackTeam "Ilmenauer SV"]
 
-{[%evp 12,67,-40,-104,-60,-121,98,99,87,16,11,18,11,17,307,300,317,315,314,313,309,311,307,265,335,320,324,299,285,283,382,375,378,375,357,290,372,353,492,477,545,542,664,610,1116,1097,29992,29993,29993,29994,29994,29995,29997,29996,29996,29997,29997,29998]} 1. Nc3 d5 2. d4 Nf6 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. Bc4 e6 7. O-O {[%eval -104,26] [%wdl 0,372,628]} (7. h3 $15 {[%eval -40,29] [%wdl 1,948,51]} Bh5 8. O-O) 7... Bd6 {[%eval -60,31] [%wdl 0,869,131] D00: 1 d4 d5: Unusual lines.} (7... Nbd7 $17 {[%eval -104,26] [%wdl 0,372,628]}) 8. Qd3 {[%eval -121,32] [%wdl 0,192,808] [#]} (8. h3 $15 {[%eval -60,31] [%wdl 0,869,131]} Bh5 9. Bg5) 8... c5 $146 {[%eval 98,30] [%wdl 545,455,0] [#]} (8... Nbd7 $17 {[%eval -121,32] [%wdl 0,192,808] and life is bright. ...0-0 would now be deadly.} 9. Be3 O-O) ({Predecessor:} 8... O-O 9. h3 Bh5 10. Ng5 Bg6 11. Qf3 c5 12. Qxb7 Nbd7 13. Bxe6 cxd4 14. Ne2 Nc5 15. Bxf7+ Bxf7 {1-0 (28) D'Emilia,J (977)-Perez,G (1222) LSS email 2017}) 9. d5 $1 $16 {Bg5 is the strong threat.} O-O {White is better.} (9... Nxd5 $2 10. Nxd5 Nc6 11. Nc3 $18) 10. dxe6 {[%eval 16,30] [%wdl 13,985,2]} ({White should try} 10. Bg5 $16 {[%eval 87,28] [%wdl 391,609,0]}) 10... Bxe6 $11 11. Bxe6 fxe6 12. Ng5 {[%cal Of1f6]} Bxh2+ $2 {[%eval 307,34] [%wdl 1000,0,0][%mdl 8192] A mistake that costs the game.} 13. Kxh2 $18 {[%cal Of1f6]} Qxd3 14. cxd3 Ng4+ 15. Kg1 {[%cal Bh2g1,Bg1f1,Bf1e2][%mdl 32]} Rxf1+ 16. Kxf1 e5 17. Ne6 Na6 {Dodges Nc7} 18. Ne4 b6 19. a3 h6 20. Nd6 Kh7 21. Ke2 Kg6 22. Kf3 Nf6 23. g4 {[%cal Bg2g4,Bg4g5][%mdl 32]} Rh8 24. Bd2 Nd7 25. Ke4 Kf6 26. Kd5 Ke7 27. g5 {Wards off Nf6+} h5 28. Rf1 {[%csl Gd6][%cal Rf1f7] [#]} Nf6+ 29. gxf6+ {White mates.} gxf6 30. Rg1 {[%cal Rg1g7]} Rh7 31. Rg8 h4 32. Ra8 Nc7+ 33. Nxc7 h3 34. Ne6 {Weighted Error Value: White=0.19 (very precise) /Black=0.73.  Loses game:     	---       	Black=1      Mistake:       	White=2     	Black=1      Inaccurate:     	---       	Black=3      OK:         	White=6     	Black=8      Best:        	White=2     	---        Strong:       	White=1     	---} 1-0
+1. Nc3 d5 2. d4 Nf6 3. e4 dxe4 4. f3 exf3 5. Nxf3 Bg4 6. Bc4 e6 7. O-O Bd6 8. Qd3 c5 9. d5 O-O 10. dxe6 Bxe6 11. Bxe6 fxe6 12. Ng5 Bxh2+ 13. Kxh2 Qxd3 14. cxd3 Ng4+ 15. Kg1 Rxf1+ 16. Kxf1 e5 17. Ne6 Na6 18. Ne4 b6 19. a3 h6 20. Nd6 Kh7 21. Ke2 Kg6 22. Kf3 Nf6 23. g4 Rh8 24. Bd2 Nd7 25. Ke4 Kf6 26. Kd5 Ke7 27. g5 h5 28. Rf1 Nf6+ 29. gxf6+ gxf6 30. Rg1 Rh7 31. Rg8 h4 32. Ra8 Nc7+ 33. Nxc7 h3 34. Ne6 1-0
 
 [Event "Vereinsmeisterschaft Ilmenauer SV 2024"]
 [Site "Ilmenauer SV, EAZ Ilmenau"]
@@ -138,6 +141,7 @@
 [Annotator "Skopp, Erik"]
 [PlyCount "56"]
 [EventDate "2024.??.??"]
+[ECO "A00"]
 [SourceTitle "Skopp, Erik"]
 [WhiteTeam "Ilmenauer SV"]
 [BlackTeam "Ilmenauer SV"]
@@ -151,6 +155,7 @@
 [White "Lehmann, Georg"]
 [Black "Brand, Thomas"]
 [Result "1-0"]
+[ECO "A00"]
 [WhiteElo "1632"]
 [BlackElo "1040"]
 [Annotator "Skopp, Erik"]
@@ -165,6 +170,7 @@
 [Event "Vereinsmeisterschaft Ilmenauer SV 2024"]
 [Site "Ilmenauer SV, EAZ Ilmenau"]
 [Date "2024.02.10"]
+[ECO "A00"]
 [Round "2.10"]
 [White "Greul, Simon"]
 [Black "Dudeja, Iresh"]
@@ -189,6 +195,7 @@
 [WhiteElo "1377"]
 [Annotator "Skopp, Erik"]
 [PlyCount "91"]
+[ECO "A00"]
 [EventDate "2024.??.??"]
 [SourceTitle "Skopp, Erik"]
 [WhiteTeam "Ilmenauer SV"]
